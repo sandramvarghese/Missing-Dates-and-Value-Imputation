@@ -14,3 +14,9 @@ before imputation
  
 after imputation 
  {'2019-01-01': '95', '2019-01-02': 105, '2019-01-03': '115', '2019-01-04': 110, '2019-01-05': '105'}
+ 
+ 
+ 
+ 
+ 
+ note: There is an assumption that the previous date , next date and the corresponding values are present.
